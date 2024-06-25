@@ -2,8 +2,8 @@
 
 ### <a>LIVE DEMO</a> 
 
-![](https://drive.google.com/file/d/1crGou-3zJAEY7oMJ5MO_RjcZPsFNQLYF/view?usp=drive_link?raw = true)
-![](https://drive.google.com/file/d/1KH2Q_Xit1SYyBk0ngDdb47tSqKZRgqTf/view?usp=drive_link)
+![](https://github.com/himanshukumar29/MyLandingPage/blob/master/imgs/01.jpg?raw=true)
+![](https://github.com/himanshukumar29/MyLandingPage/blob/master/imgs/02.jpg?raw=true)
 
 ## Description
 This is a ReactJS based landing page template, fit for a startup company/service with a one page view.All 'visual' data can be easily modified by changing the data.json file. 
