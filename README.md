@@ -1,6 +1,6 @@
 # Wonderful Landing Page Template
 
-### <a>LIVE DEMO</a><(to be deployed soon)  
+### <a>LIVE DEMO</a>(to be deployed soon)  
 
 ![](https://github.com/himanshukumar29/MyLandingPage/blob/master/imgs/01.jpg?raw=true)
 ![](https://github.com/himanshukumar29/MyLandingPage/blob/master/imgs/02.jpg?raw=true)
