@@ -2,7 +2,7 @@
 
 ### <a>LIVE DEMO</a> 
 
-![](https://drive.google.com/file/d/1crGou-3zJAEY7oMJ5MO_RjcZPsFNQLYF/view?usp=drive_link)
+![](https://drive.google.com/file/d/1crGou-3zJAEY7oMJ5MO_RjcZPsFNQLYF/view?usp=drive_link?raw = true)
 ![](https://drive.google.com/file/d/1KH2Q_Xit1SYyBk0ngDdb47tSqKZRgqTf/view?usp=drive_link)
 
 ## Description
